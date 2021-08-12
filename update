@@ -1,0 +1,42 @@
+{
+//เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
+"Version":"2.0.9",
+//ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
+"Url":"https://github.com/teamvpn/openvpn/raw/main/chopa.zip",
+"Changelog":"
+
+Midoo ยินดีต้อนรับทุกท่าน 
+☑️อัพเดทวันที่ 03/06/2564
+
+☑️อัพเดท ไฟล์ชิมทรูเรี่ยนฟรี TrueVirtualWorld
+  ไฟล์ที่ใช้เชื่อมต่อคือ TRUE-STUDY-365
+☑️อัพเดท ไฟล์ทรู Esoprt 
+☑️อัพเดท ไฟล์ทรู SOCIAL
+☑️อัพเดท DTAC LINE
+☑️อัพเดท DTAC HAPPYWORK
+☑️อัพเดท DTAC SOCIAL
+=====================================
+เชิร์ฟเวอร์ปัจจุบัน
+🇸🇬 Server SG
+🇨🇷 Server TH
+🇭🇰 Server HK
+🇯🇵 Server JP
+🇰🇷 Server KR
+🇺🇸 Server US
+🇻🇳 Server VN
+🌐 Server NordVPN
+
+🙏ขอบคุณไฟล์จากพี่ @kguza🙏
+ควรมีอินเทอร์เน็ตก่อนทำการอัพเดท
+กดตกลง เพื่อทำการ อัพเดท 
+",
+ 
+ 
+//
+"latestVersion": "1.0.0",
+"latestVersionCode": "1",
+"url": "",
+ "releaseNotes": [
+ "-Demo"
+  ]
+}
