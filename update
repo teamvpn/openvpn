@@ -2,7 +2,7 @@
 //เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
 "Version":"2.0.9",
 //ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
-"Url":"https://github.com/teamvpn/openvpn/raw/main/chopa.zip",
+"Url":"",
 "Changelog":"
 
 Midoo ยินดีต้อนรับทุกท่าน 
@@ -35,7 +35,7 @@ Midoo ยินดีต้อนรับทุกท่าน
 //
 "latestVersion": "1.0.0",
 "latestVersionCode": "1",
-"url": "",
+"url": "https://github.com/teamvpn/openvpn/raw/main/chopa.zip",
  "releaseNotes": [
  "-Demo"
   ]
